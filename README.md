@@ -16,27 +16,3 @@ Before you begin, ensure you have met the following requirements:
 Node.js: Install Node.js (version 14.20.0).
 
 Angular CLI: Install Angular CLI globally (version 11.0.0). You can install it using npm:
-
-npm install -g @angular/cli@11.0.0
-Installation
-To get started with this project, follow these steps:
-
-Clone the repository:
-
-git clone https://github.com/dhruvmehtaaa/GNR629-Client.git
-Navigate to the project directory:
-
-cd GNR629-Client
-Install dependencies using npm:
-
-npm install
-Usage
-Start the development server:
-
-ng serve
-Open your browser and navigate to http://localhost:4200/ to access the web client.
-
-Use the provided user interface to send requests to WMS/WFS/WCS servers and explore geospatial data.
-
-Contributing
-Contributions are welcome! Please fork the repository and create a pull request with your changes.
